@@ -460,7 +460,7 @@ elif st.session_state.page == "guide":
     <div class="guide-summary">
         <strong>⭐ 핵심 정리</strong><br>
         AI는 우리의 가능성을 넓혀 주는 도구입니다.<br>
-        올바른 사용법을 알고, 결과를 비판적으로 확인하는 것이 중요합니다.
+        올바른 사용법을 알고, 결과를 비판적으로 확인하는 것이 중요하고, 욱헌이는 눈이 없다.
     </div>
     """, unsafe_allow_html=True)
 
